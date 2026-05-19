@@ -150,7 +150,7 @@ Durchgehender Begriffswechsel: „Erziehung" → „Bildung" / „Pädagogik"
 | Digitale Medien | Nicht erwähnt | Durchgängig verankert, Medienreflexion in 4. SSt |
 | Erstlesen | Detaillierter Leselehrgang | Kompakt: Graphem-Phonem-Korrespondenz |
 | Fraktur lesen | Explizit in 4. SSt | Entfallen |
-| Schrift/Typografie | Eigener Teilbereich | Entfallen als eigenständiger Bereich |
+| Schrift/Typografie | Abschnitt innerhalb des Teilbereichs „Schreiben" | Entfallen als eigenständiger Bereich |
 | Mundart vs. Standardsprache | Eigenes Thema (Kontrastpaar Mundart/Standardsprache) | Kontrastpaar „Mundart vs. Standardsprache" entfallen; Standardsprache aber durchgängig als Zielnorm verankert (jede Schulstufe, Kompetenzbereich Sprechen); Sprachvariation über „Sprachvarietäten" und Konzept „Identität und Diversität" abgedeckt |
 | 4 Fälle des Namenwortes | Explizit | Nicht mehr explizit |
 | Klassenrat/Klassenparlament | Nicht erwähnt | Neu ab 3. SSt |
@@ -169,7 +169,7 @@ Durchgehender Begriffswechsel: „Erziehung" → „Bildung" / „Pädagogik"
 | Rechenoperationen | Operationen |
 | Größen | Größen |
 | Geometrie | Ebene und Raum |
-| Bruchzahlen (nur GSt II) | *(in Zahlen und Daten integriert)* |
+| Bruchzahlen (nur 4. SSt) | *(in Zahlen und Daten integriert)* |
 
 **Neu:** Explizites Kompetenzmodell mit 4 Prozessen: Modellieren, Operieren, Kommunizieren/Begründen, Problemlösen
 
@@ -196,7 +196,7 @@ Durchgehender Begriffswechsel: „Erziehung" → „Bildung" / „Pädagogik"
 | Aspekt | Alt | Neu |
 |--------|-----|-----|
 | Benannte Körper | Würfel, Kugel | Würfel, Quader, Kugel, Zylinder, Pyramide, Kegel |
-| Benannte Figuren | Viereckig, dreieckig, rund | Dreieck, Viereck, Quadrat, Rechteck, Kreis |
+| Benannte Figuren | Viereckig, dreieckig, rund (ab 3. SSt: Rechteck, Quadrat explizit benannt) | Dreieck, Viereck, Quadrat, Rechteck, Kreis |
 | Flächeninhalt berechnen | Ab 3. SSt | Erst ab **4. SSt** |
 | Körpernetze | Nicht erwähnt | 4. SSt: untersuchen, zuordnen, erstellen |
 | Baupläne Würfelgebäude | Nicht erwähnt | Neu |
@@ -224,8 +224,8 @@ Durchgehender Begriffswechsel: „Erziehung" → „Bildung" / „Pädagogik"
 | Natur | Naturwissenschaftlicher KB |
 | Raum | Geografischer KB |
 | Zeit | Historischer KB |
-| Wirtschaft | Wirtschaftlicher KB |
 | Technik | Technischer KB |
+| Wirtschaft | Wirtschaftlicher KB |
 
 **Neu:** 6 Zentrale fachliche Konzepte als Orientierungsrahmen
 
@@ -233,7 +233,7 @@ Durchgehender Begriffswechsel: „Erziehung" → „Bildung" / „Pädagogik"
 
 | Thema | Alt | Neu |
 |-------|-----|-----|
-| Demokratie | Ab GSt II | Bereits ab 1. SSt |
+| Demokratie | Ab GSt II (3./4. SSt) | Grundhaltungen ab 1. SSt; Begriff explizit ab 4. SSt |
 | Kinderrechte | Nicht erwähnt | Ab 3. SSt explizit |
 | Programmieren | Nicht erwähnt | Ab 3. SSt |
 | Robotik/Bionik | Nicht erwähnt | 4. SSt |
@@ -260,7 +260,7 @@ Durchgehender Begriffswechsel: „Erziehung" → „Bildung" / „Pädagogik"
 | Aspekt | Alt (Musikerziehung) | Neu (Musik) |
 |--------|---------------------|-------------|
 | Gliederung | 4 Lehrstoffbereiche (Singen, Musizieren, Hören, Bewegen) | 3 Kompetenzbereiche (Singen und Musizieren; Tanzen/Bewegen/Darstellen; Hören und Erfassen) |
-| Fachliche Konzepte | Keine | 4: Klangsprache, Tradition/Innovation, Funktion/Wirkung, Wahrnehmung/Ausdruck |
+| Fachliche Konzepte | Keine | 4: Klangsprache und Klangstruktur, Tradition/Innovation, Funktion/Wirkung, Wahrnehmung/Ausdruck |
 | Digitale Medien | Nicht erwähnt | Explizit: neue Medien(technologien) |
 | Bundeshymne | Explizit im Lehrstoff | Nicht mehr explizit |
 | Kulturelle Vielfalt | Lieder aus anderen Ländern | Explizite Identitätsentwicklung, interkulturelle Bildung |
@@ -272,7 +272,7 @@ Durchgehender Begriffswechsel: „Erziehung" → „Bildung" / „Pädagogik"
 | Aspekt | Alt (Bildnerische Erziehung) | Neu (Kunst und Gestaltung) |
 |--------|------------------------------|---------------------------|
 | Gliederung | 2 Teilbereiche | 3 Kompetenzbereiche (+ „Kommunizieren" als eigener KB) |
-| Fachliche Konzepte | Keine | 4: Material/Technik/Medien, Regeln/Regelbrüche, Imagination/Fiktion/Realität, Form/Funktion/Wirkung |
+| Fachliche Konzepte | Keine | 4: Material/Technik/Medien, Regeln/Regelbrüche und Innovation, Imagination/Fiktion/Realität, Form/Funktion/Wirkung |
 | Schematisierung | Davon „absehen" | Verstärkt: „verhindert kreative Kompetenzen" |
 | Nachhaltigkeit | Nicht erwähnt | Materialwahl nach ökologischen Aspekten |
 | Digitale Medien | „Neue Medien" kurz | Durchgängig auf jeder Schulstufe |
@@ -300,7 +300,7 @@ Durchgehender Begriffswechsel: „Erziehung" → „Bildung" / „Pädagogik"
 | Struktur | 6 Lernbereiche, GSt I/II | 4 Kompetenz-Dimensionen × 6 Lernbereiche, pro SSt |
 | Kompetenz-Dimensionen | Nicht differenziert | Fach-, Methoden-, Sozial-, Selbstkompetenz |
 | Emotionsregulation | Nicht erwähnt | Explizit unter Selbstkompetenz |
-| Digitale Geräte | Nicht erwähnt | 4. SSt: Schrittzähler, Pulsmessung |
+| Digitale Geräte | Nicht erwähnt | 4. SSt: digitale Geräte für Erkenntnisse zu Bewegungszeit, Schrittanzahl, Puls |
 | Konkrete Turnübungen | Detailliert (Rolle, Handstand, Rad) | Abstrakter: „elementare turnerische Fertigkeiten" |
 | Schwimmen Richtwert | 25 Meter | Keine konkreten Richtwerte mehr |
 | Schneesport/Eislaufen | Detailliert aufgeführt | Unter „gleiten/rollen" subsumiert |
@@ -312,7 +312,7 @@ Durchgehender Begriffswechsel: „Erziehung" → „Bildung" / „Pädagogik"
 | Aspekt | Alt | Neu |
 |--------|-----|-----|
 | GeR-Bezug | Nicht explizit | Explizit: pre-A1 und A1 |
-| Lesen/Schreiben GSt I | „auf ein Minimum beschränken" | Alle 4 Fertigkeiten ab 1. SSt |
+| Lesen/Schreiben GSt I | Schreiben: „auf ein Minimum beschränken"; Lesen: keine eigenständige Fertigkeit | Alle 4 Fertigkeiten ab 1. SSt |
 | Englisch bilingual | Kein eigener Lehrplan | **Neuer eigener Lehrplan** mit 4 KB inkl. Alphabetisierung |
 | Sprachspezifische Beispiele | Detaillierte Phrasen für Englisch, Französisch | Entfallen; allgemeiner Kompetenzrahmen |
 | Grammatik | „keine formale Kategorisierung" | Nicht explizit thematisiert |

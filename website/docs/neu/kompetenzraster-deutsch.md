@@ -5,165 +5,424 @@ sidebar_position: 20
 
 # Kompetenzraster: Deutsch (1. bis 4. Schulstufe)
 
-Der Kompetenzraster Deutsch konkretisiert die im Lehrplan festgelegten Kompetenzbeschreibungen fuer den Unterrichtsgegenstand Deutsch in der Volksschule. Er gibt Auskunft darueber, WIE GUT etwas gekonnt werden soll und unterstuetzt Lehrpersonen bei Unterrichtsplanung, Diagnostik und Rueckmeldung.
+Der Kompetenzraster Deutsch konkretisiert die im Lehrplan festgelegten Kompetenzbeschreibungen für den Unterrichtsgegenstand Deutsch in der Volksschule. Er beantwortet nicht nur die Frage *was* gelernt werden soll, sondern **wie gut** – und unterstützt Lehrpersonen bei Unterrichtsplanung, Diagnostik und Rückmeldung.
 
 **Kompetenzbereiche:**
-- (Zu-)Hoeren und Sprechen
+- (Zu-)Hören und Sprechen
 - Lesen
 - Verfassen von Texten
 - (Recht-)Schreiben und Sprachbetrachtung
 
-**Hinweis:** Fuer die 1. und 2. Schulstufe ist Kompetenzniveau 1 ausgearbeitet. Ab der 3. Schulstufe werden drei Kompetenzniveaus unterschieden.
+:::info Niveaumodell – Was bedeuten die drei Kompetenzniveaus?
+
+Für die **1. und 2. Schulstufe** gibt es nur **Kompetenzniveau 1** – der Lernaufbau steht im Vordergrund, noch keine Differenzierung. Ab der **3. Schulstufe** werden drei Niveaus unterschieden:
+
+| Niveau | Charakteristik | Typische Formulierungsmarker |
+|--------|---------------|------------------------------|
+| **1** | Grundlegendes Können – mit Unterstützung, einfache Aufgaben | „mit Hilfe", „einfache", „angeleitet", „zunehmend" |
+| **2** | Bewusstes Können – mit wachsender Selbstständigkeit | „bewusst", „zunehmend selbstständig", „adäquat", „nach bestimmten Aspekten" |
+| **3** | Sicheres, flexibles Können – eigenständig und differenziert | „sicher", „flexibel", „differenziert", „selbstständig", „überzeugend" |
+
+**Niveau 2** entspricht dem Regelfall am Ende der Schulstufe. **Niveau 3** beschreibt, was besonders kompetente Schüler/innen zusätzlich leisten können.
+
+*Quelle: [paedagogikpaket.at – Kernbotschaften Kompetenzraster](https://paedagogikpaket.at/massnahmen/kompetenzraster.html)*
+:::
 
 ---
 
 ## 1. Schulstufe
 
-### Kompetenzbereich: (Zu-)Hoeren und Sprechen
+:::note Schwerpunkte der 1. Schulstufe
+Erstlesen und Erstschreiben stehen im Mittelpunkt: Die Schüler/innen bauen die Graphem-Phonem-Korrespondenz auf und entwickeln erste Schreibfreude. Im Sprechen lernen sie, sich in vertrauten Situationen verständlich auszudrücken. Grafomotorische Grundlagen sichern die Handschrift.
+:::
+
+### Kompetenzbereich: (Zu-)Hören und Sprechen
 
 | Teilkompetenz | Kompetenzniveau 1 |
 |---|---|
-| Sprachhandlungsfaehigkeit | Die Schuelerinnen und Schueler koennen in verschiedenen Gespraechssituationen an unterschiedlichen Themen ihre Sprachhandlungsfaehigkeit aufzeigen. |
-| Kommunikationssituationen | Die Schuelerinnen und Schueler koennen neue Kommunikationssituationen erkennen, unterscheiden und angemessen verbal und nonverbal, auch kreativ, handeln. |
-| Hoergedaechtnis | Die Schuelerinnen und Schueler koennen in verschiedenen Situationen ihr Hoergedaechtnis unter Beweis stellen. |
-| Verstaendliches Sprechen | Die Schuelerinnen und Schueler koennen sich in vertrauten Alltagssituationen verstaendlich mitteilen. |
+| Sprachhandlungsfähigkeit | Die Schülerinnen und Schüler können in verschiedenen Gesprächssituationen an unterschiedlichen Themen ihre Sprachhandlungsfähigkeit aufzeigen. |
+| Kommunikationssituationen | Die Schülerinnen und Schüler können neue Kommunikationssituationen erkennen, unterscheiden und angemessen verbal und nonverbal, auch kreativ, handeln. |
+| Hörgedächtnis | Die Schülerinnen und Schüler können in verschiedenen Situationen ihr Hörgedächtnis unter Beweis stellen. |
+| Verständliches Sprechen | Die Schülerinnen und Schüler können sich in vertrauten Alltagssituationen verständlich mitteilen. |
 
 ### Kompetenzbereich: Lesen
 
 | Teilkompetenz | Kompetenzniveau 1 |
 |---|---|
-| Graphem-Phonem-Korrespondenz | Die Schuelerinnen und Schueler koennen durch Herstellen der Graphem-Phonem-Korrespondenz Buchstabenverbindungen, Wortbausteine und Woerter erfassen und zunehmend richtig klanglich strukturieren, lesen und verstehen sowie die Blickspanne erweitern. |
-| Einfache Texte | Die Schuelerinnen und Schueler koennen einfache Texte mit Hilfe von Anleitung lesen und verstehen. |
-| Textverstaendnis | Die Schuelerinnen und Schueler koennen Handlungsverlaeufen von (vor-)gelesenen Texten ueber einen angemessenen Zeitraum folgen und wiedergeben. |
-| Medienauswahl | Die Schuelerinnen und Schueler koennen mit Unterstuetzung aus einem Textangebot in verschiedenen Medien waehlen. |
+| Graphem-Phonem-Korrespondenz | Die Schülerinnen und Schüler können durch Herstellen der Graphem-Phonem-Korrespondenz Buchstabenverbindungen, Wortbausteine und Wörter erfassen und zunehmend richtig klanglich strukturieren, lesen und verstehen sowie die Blickspanne erweitern. |
+| Einfache Texte | Die Schülerinnen und Schüler können einfache Texte mit Hilfe von Anleitung lesen und verstehen. |
+| Textverständnis | Die Schülerinnen und Schüler können Handlungsverläufen von (vor-)gelesenen Texten über einen angemessenen Zeitraum folgen und wiedergeben. |
+| Medienauswahl | Die Schülerinnen und Schüler können mit Unterstützung aus einem Textangebot in verschiedenen Medien wählen. |
 
 ### Kompetenzbereich: Verfassen von Texten
 
 | Teilkompetenz | Kompetenzniveau 1 |
 |---|---|
-| Schreibmotivation | Die Schuelerinnen und Schueler koennen ausgehend vom muendlichen Erzaehlen das Mitteilungsbeduerfnis und die Schreibmotivation bildlich oder schriftlich umsetzen. |
-| Satzmuster | Die Schuelerinnen und Schueler koennen einfache Satzmuster sprachlich angemessen einsetzen. |
-| Textplanung | Die Schuelerinnen und Schueler koennen sich fuer das Planen von Texten beim muendlichen Erzaehlen verstaendlich ausdruecken und beim Zuhoeren Unklarheiten erkennen. |
-| Ueberarbeitung | Die Schuelerinnen und Schueler koennen bei Bedarf angeleitet berichtigen und ergaenzen. |
+| Schreibmotivation | Die Schülerinnen und Schüler können ausgehend vom mündlichen Erzählen das Mitteilungsbedürfnis und die Schreibmotivation bildlich oder schriftlich umsetzen. |
+| Satzmuster | Die Schülerinnen und Schüler können einfache Satzmuster sprachlich angemessen einsetzen. |
+| Textplanung | Die Schülerinnen und Schüler können sich für das Planen von Texten beim mündlichen Erzählen verständlich ausdrücken und beim Zuhören Unklarheiten erkennen. |
+| Überarbeitung | Die Schülerinnen und Schüler können bei Bedarf angeleitet berichtigen und ergänzen. |
 
 ### Kompetenzbereich: (Recht-)Schreiben und Sprachbetrachtung
 
 | Teilkompetenz | Kompetenzniveau 1 |
 |---|---|
-| Grafomotorik | Die Schuelerinnen und Schueler koennen erarbeitete Zeichen und Formen, Laute und Buchstaben wahrnehmen, differenzieren und grafomotorisch umsetzen. |
-| Lautanalyse | Die Schuelerinnen und Schueler koennen Woerter in ihre Laute und Sprechsilben zerlegen sowie Woerter, Wortgruppen und kurze Saetze ab- und aufschreiben. |
-| Wortschatz | Die Schuelerinnen und Schueler koennen Woerter des erarbeiteten Wortschatzes akustisch, optisch und sprechmotorisch durchgliedern und zunehmend richtig schreiben. |
-| Wortbildung | Die Schuelerinnen und Schueler koennen Ableitungen und Formveraenderungen von Woertern im muendlichen und schriftlichen Sprachgebrauch entdecken und zunehmend anwenden. |
-| Sprachbetrachtung | Die Schuelerinnen und Schueler koennen gesprochene und geschriebene Sprache (auch Fremdwoerter) untersuchen und vergleichen sowie Saetze als Sinneinheit erkennen. |
+| Grafomotorik | Die Schülerinnen und Schüler können erarbeitete Zeichen und Formen, Laute und Buchstaben wahrnehmen, differenzieren und grafomotorisch umsetzen. |
+| Lautanalyse | Die Schülerinnen und Schüler können Wörter in ihre Laute und Sprechsilben zerlegen sowie Wörter, Wortgruppen und kurze Sätze ab- und aufschreiben. |
+| Wortschatz | Die Schülerinnen und Schüler können Wörter des erarbeiteten Wortschatzes akustisch, optisch und sprechmotorisch durchgliedern und zunehmend richtig schreiben. |
+| Wortbildung | Die Schülerinnen und Schüler können Ableitungen und Formveränderungen von Wörtern im mündlichen und schriftlichen Sprachgebrauch entdecken und zunehmend anwenden. |
+| Sprachbetrachtung | Die Schülerinnen und Schüler können gesprochene und geschriebene Sprache (auch Fremdwörter) untersuchen und vergleichen sowie Sätze als Sinneinheit erkennen. |
+
+<details>
+<summary>Erläuterungen zu den Einträgen – 1. Schulstufe</summary>
+
+#### (Zu-)Hören und Sprechen
+
+**Sprachhandlungsfähigkeit** – Kann das Kind in verschiedenen Gesprächen (z. B. Morgenkreis, Gruppenarbeit) aktiv mitmachen: erzählen, berichten, fragen, antworten?
+
+**Kommunikationssituationen** – Erkennt das Kind, dass man in verschiedenen Situationen unterschiedlich spricht (z. B. mit der Lehrperson anders als mit Freunden), und reagiert – auch durch Gestik und Mimik – angemessen?
+
+**Hörgedächtnis** – Kann das Kind Gehörtes (z. B. eine Aufgabe, eine Geschichte, eine Anweisung) für eine Weile behalten und wiedergeben?
+
+**Verständliches Sprechen** – Spricht das Kind so deutlich und zusammenhängend, dass andere es gut verstehen (Lautstärke, Tempo, klare Aussprache)?
+
+#### Lesen
+
+**Graphem-Phonem-Korrespondenz** – Das ist die Kernkompetenz des Lesenlernens: Welcher Buchstabe gehört zu welchem Laut? Das Kind lernt, Buchstaben zu verbinden, Silben und Wörter zu erlesen und die Blickspanne Schritt für Schritt zu erweitern.
+
+**Einfache Texte** – Kann das Kind mit Hilfe (z. B. durch lautes Mitlesen, Bilder als Stütze, bekannte Wörter) einfache Sätze und kurze Texte sinnentnehmend lesen?
+
+**Textverständnis** – Folgt das Kind einer vorgelesenen oder selbst gelesenen Geschichte und kann die wesentliche Handlung nacherzählen?
+
+**Medienauswahl** – Kann das Kind mit Unterstützung aus Büchern, Bilderbüchern oder digitalen Texten auswählen – je nach Interesse oder Zweck?
+
+#### Verfassen von Texten
+
+**Schreibmotivation** – Hat das Kind Freude daran, eigene Erlebnisse und Gedanken bildlich oder schriftlich festzuhalten? Das Erzählen ist der Ausgangspunkt für das Schreiben.
+
+**Satzmuster** – Setzt das Kind einfache Satzmuster richtig ein, z. B. „Ich sehe einen Hund." (Subjekt–Prädikat–Objekt)?
+
+**Textplanung** – Kann das Kind beim mündlichen Erzählen einen roten Faden einhalten (Anfang, Mitte, Ende) und erkennen, wenn etwas unklar bleibt?
+
+**Überarbeitung** – Kann das Kind mit direkter Anleitung einen eigenen Text anschauen, Fehler erkennen und verbessern?
+
+#### (Recht-)Schreiben und Sprachbetrachtung
+
+**Grafomotorik** – Hält das Kind den Stift korrekt? Schreibt es Buchstaben in der richtigen Form und Größe, deutlich erkennbar? Das ist die motorische Basis der Handschrift.
+
+**Lautanalyse** – Kann das Kind ein Wort in seine einzelnen Laute zerlegen (z. B. H–U–N–D) und Silben klatschen? Das ist die phonologische Bewusstheit – Grundlage für richtiges Schreiben.
+
+**Wortschatz** – Schreibt das Kind Wörter aus dem gemeinsam erarbeiteten Grundwortschatz zunehmend richtig – erst nach Vorlage, dann aus dem Gedächtnis?
+
+**Wortbildung** – Erkennt das Kind, wie aus einem Wortstamm neue Wörter entstehen? Z. B.: *laufen → Läufer → gelaufen*.
+
+**Sprachbetrachtung** – Vergleicht das Kind, wie etwas gesagt und wie es geschrieben wird? Erkennt es, dass ein Satz eine abgeschlossene Sinneinheit ist (Großbuchstabe am Anfang, Punkt am Ende)?
+
+</details>
 
 ---
 
 ## 2. Schulstufe
 
-### Kompetenzbereich: (Zu-)Hoeren und Sprechen
+:::note Schwerpunkte der 2. Schulstufe
+Leseflüssigkeit und Textverständnis werden ausgebaut. Standardsprache etabliert sich als Zielnorm beim Sprechen. Erste Rechtschreibregeln werden erkannt und angewendet. Im Schreiben entwickeln die Kinder situationsgerechte Texte und lernen erste Überarbeitungsstrategien kennen.
+:::
+
+### Kompetenzbereich: (Zu-)Hören und Sprechen
 
 | Teilkompetenz | Kompetenzniveau 1 |
 |---|---|
-| Sprachhandlungsfaehigkeit | Die Schuelerinnen und Schueler koennen in verschiedenen Gespraechssituationen an unterschiedlichen Themen ihre Sprachhandlungsfaehigkeit, unter Einhaltung einer Kommunikationskultur, aufzeigen. |
-| Standardsprache | Die Schuelerinnen und Schueler koennen mit zunehmender Sicherheit deutliches, ausdrucksvolles und an der Standardsprache orientiertes Sprechen entwickeln. |
-| Kommunikationskultur | Die Schuelerinnen und Schueler koennen Gespraechsregeln einhalten und sich an Gespraechen aktiv beteiligen. |
-| Zuhoeren | Die Schuelerinnen und Schueler koennen aufmerksam zuhoeren und Gehoertes wiedergeben. |
+| Sprachhandlungsfähigkeit | Die Schülerinnen und Schüler können in verschiedenen Gesprächssituationen an unterschiedlichen Themen ihre Sprachhandlungsfähigkeit, unter Einhaltung einer Kommunikationskultur, aufzeigen. |
+| Standardsprache | Die Schülerinnen und Schüler können mit zunehmender Sicherheit deutliches, ausdrucksvolles und an der Standardsprache orientiertes Sprechen entwickeln. |
+| Kommunikationskultur | Die Schülerinnen und Schüler können Gesprächsregeln einhalten und sich an Gesprächen aktiv beteiligen. |
+| Zuhören | Die Schülerinnen und Schüler können aufmerksam zuhören und Gehörtes wiedergeben. |
 
 ### Kompetenzbereich: Lesen
 
 | Teilkompetenz | Kompetenzniveau 1 |
 |---|---|
-| Lesefluessigkeit | Die Schuelerinnen und Schueler koennen ihre Lesefluessigkeit steigern, zunehmend klanglich strukturiert lesen sowie erste Lesestrategien in Texten fuer ein Textverstaendnis einsetzen. |
-| Textverstaendnis | Die Schuelerinnen und Schueler koennen mit Hilfestellung zu altersangemessenen Texten ihre Meinung aeussern und zunehmend selbststaendig auch nicht genannte Sachverhalte erfassen und deuten. |
-| Mediennutzung | Die Schuelerinnen und Schueler koennen Buecher und Medien zur Gewinnung von Information, zur Erweiterung ihres Wissens und zur Unterhaltung nutzen. |
+| Leseflüssigkeit | Die Schülerinnen und Schüler können ihre Leseflüssigkeit steigern, zunehmend klanglich strukturiert lesen sowie erste Lesestrategien in Texten für ein Textverständnis einsetzen. |
+| Textverständnis | Die Schülerinnen und Schüler können mit Hilfestellung zu altersangemessenen Texten ihre Meinung äußern und zunehmend selbstständig auch nicht genannte Sachverhalte erfassen und deuten. |
+| Mediennutzung | Die Schülerinnen und Schüler können Bücher und Medien zur Gewinnung von Information, zur Erweiterung ihres Wissens und zur Unterhaltung nutzen. |
 
 ### Kompetenzbereich: Verfassen von Texten
 
 | Teilkompetenz | Kompetenzniveau 1 |
 |---|---|
-| Schreibanlaesse | Die Schuelerinnen und Schueler koennen ausgehend vom muendlichen Erzaehlen die Schreibmotivation umsetzen und einfache schriftliche Muster situationsbezogen und intentionsgeleitet anwenden. |
-| Textueberarbeitung | Die Schuelerinnen und Schueler koennen einfache, auch selbst geschriebene Texte inhaltlich und sprachlich ueberpruefen und bei Bedarf durch Einsatz erster Ueberarbeitungsstrategien berichtigen. |
+| Schreibanlässe | Die Schülerinnen und Schüler können ausgehend vom mündlichen Erzählen die Schreibmotivation umsetzen und einfache schriftliche Muster situationsbezogen und intentionsgeleitet anwenden. |
+| Textüberarbeitung | Die Schülerinnen und Schüler können einfache, auch selbst geschriebene Texte inhaltlich und sprachlich überprüfen und bei Bedarf durch Einsatz erster Überarbeitungsstrategien berichtigen. |
 
 ### Kompetenzbereich: (Recht-)Schreiben und Sprachbetrachtung
 
 | Teilkompetenz | Kompetenzniveau 1 |
 |---|---|
-| Schreibschrift | Die Schuelerinnen und Schueler koennen Buchstaben und Zeichen in einer der oesterreichischen Schulschrift angenaeherten Form ab- und aufschreiben sowie beim Schreiben einen erarbeiteten Wortschatz in orthografisch korrekter Schreibweise zunehmend anwenden. |
-| Rechtschreibung | Die Schuelerinnen und Schueler koennen einfache Zusammensetzungen in Morpheme trennen, einfache Regelhaftigkeiten der Rechtschreibung erkennen, diese verbalisieren und in eigenen Texten zunehmend anwenden sowie erste alphabetische Ordnungs- und Suchuebungen durchfuehren. |
-| Wortbildung | Die Schuelerinnen und Schueler koennen Woerter mit Morphemen bilden, segmentieren, in ihrer Form veraendern und so Bedeutungsunterschiede erkennen sowie zu einem Stamm-Morphem gehoerende Woerter sammeln. |
-| Syntax | Die Schuelerinnen und Schueler koennen die Interpunktion als Hinweis fuer die Stimmfuehrung nutzen, aus Woertern syntaktisch korrekte Saetze bauen und die wichtigsten Wortarten in ihrer Funktion verstehen. |
+| Schreibschrift | Die Schülerinnen und Schüler können Buchstaben und Zeichen in einer der österreichischen Schulschrift angenäherten Form ab- und aufschreiben sowie beim Schreiben einen erarbeiteten Wortschatz in orthografisch korrekter Schreibweise zunehmend anwenden. |
+| Rechtschreibung | Die Schülerinnen und Schüler können einfache Zusammensetzungen in Morpheme trennen, einfache Regelhaftigkeiten der Rechtschreibung erkennen, diese verbalisieren und in eigenen Texten zunehmend anwenden sowie erste alphabetische Ordnungs- und Suchübungen durchführen. |
+| Wortbildung | Die Schülerinnen und Schüler können Wörter mit Morphemen bilden, segmentieren, in ihrer Form verändern und so Bedeutungsunterschiede erkennen sowie zu einem Stamm-Morphem gehörende Wörter sammeln. |
+| Syntax | Die Schülerinnen und Schüler können die Interpunktion als Hinweis für die Stimmführung nutzen, aus Wörtern syntaktisch korrekte Sätze bauen und die wichtigsten Wortarten in ihrer Funktion verstehen. |
+
+<details>
+<summary>Erläuterungen zu den Einträgen – 2. Schulstufe</summary>
+
+#### (Zu-)Hören und Sprechen
+
+**Sprachhandlungsfähigkeit** – Beteiligt sich das Kind aktiv und respektvoll an Gesprächen, hält dabei Kommunikationsregeln ein (ausreden lassen, zuhören, zum Thema bleiben)?
+
+**Standardsprache** – Bemüht sich das Kind um deutliches, ausdrucksvolles Sprechen, das sich an der Standardsprache orientiert? (Nicht: perfekte Hochsprache – sondern ein bewusstes Bemühen um sprachliche Norm.)
+
+**Kommunikationskultur** – Kennt und hält das Kind grundlegende Gesprächsregeln ein: melden, warten, nicht unterbrechen, konstruktiv beitragen?
+
+**Zuhören** – Hört das Kind aufmerksam zu und kann Gehörtes (Aufgabe, Geschichte, Erklärung) anschließend mit eigenen Worten wiedergeben?
+
+#### Lesen
+
+**Leseflüssigkeit** – Liest das Kind zunehmend flüssiger, mit korrekter Betonung und Satzmelodie? Setzt es erste Strategien ein (z. B. Wörter aus dem Kontext erschließen, Abschnitte zusammenfassen)?
+
+**Textverständnis** – Kann das Kind altersgemäße Texte mit Unterstützung verstehen, seine Meinung dazu äußern und auch zwischen den Zeilen liegende Sachverhalte erschließen?
+
+**Mediennutzung** – Nutzt das Kind Bücher, Zeitschriften oder digitale Medien eigenständig und gezielt – zum Nachschlagen, Lernen oder zur Unterhaltung?
+
+#### Verfassen von Texten
+
+**Schreibanlässe** – Schreibt das Kind aus eigener Motivation und passt die Textform dem Anlass an, z. B. eine Einladung, einen kurzen Bericht, eine Erzählung?
+
+**Textüberarbeitung** – Kann das Kind einen selbst geschriebenen Text lesen, inhaltliche Lücken und sprachliche Fehler erkennen und mit einfachen Strategien verbessern (z. B. Wörter tauschen, Sätze umstellen)?
+
+#### (Recht-)Schreiben und Sprachbetrachtung
+
+**Schreibschrift** – Schreibt das Kind leserlich in einer der österreichischen Schulschriften (Druckschrift oder verbundene Schrift) und wendet erarbeitete Wörter orthografisch korrekt an?
+
+**Rechtschreibung** – Erkennt das Kind erste Rechtschreibregeln (z. B. Großschreibung von Nomen, Satzzeichen, Länge/Kürze von Vokalen) und wendet sie in eigenen Texten an? Kann es Wörter im Wörterbuch nachschlagen?
+
+**Wortbildung** – Kann das Kind Wörter in ihre Bedeutungsbausteine (Morpheme) zerlegen und neue Wörter bilden (z. B. Vor- und Nachsilben, Zusammensetzungen)? Erkennt es, dass verwandte Wörter denselben Stamm haben?
+
+**Syntax** – Baut das Kind grammatikalisch korrekte Sätze? Nutzt es Satzzeichen als Lesezeichen und versteht die Funktion der wichtigsten Wortarten (Nomen, Verb, Adjektiv)?
+
+</details>
 
 ---
 
 ## 3. Schulstufe
 
-### Kompetenzbereich: (Zu-)Hoeren und Sprechen
+:::note Schwerpunkte der 3. Schulstufe
+Ab der 3. Schulstufe werden **drei Kompetenzniveaus** unterschieden. Hören und Sprechen entwickelt sich von einfachen zu differenzierten Strategien. Lesen wird reflexiv. Im Schreiben kommen vielfältigere Textmuster hinzu. Rechtschreibung wird regelbasierter – erste Grammatikbegriffe (Nomen, Verb, Adjektiv, Zeitformen) werden eingeführt.
+:::
+
+### Kompetenzbereich: (Zu-)Hören und Sprechen
 
 | Teilkompetenz | Kompetenzniveau 1 | Kompetenzniveau 2 | Kompetenzniveau 3 |
 |---|---|---|---|
-| Hoerverstehen | Die Schuelerinnen und Schueler koennen einfache Strategien fuer das Hoerverstehen anwenden. | Die Schuelerinnen und Schueler koennen Strategien fuer das Hoerverstehen entwickeln und zuhoererbezogen anwenden. | Die Schuelerinnen und Schueler koennen differenzierte Strategien fuer das Hoerverstehen entwickeln und situations- sowie zuhoererbezogen anwenden. |
-| Sprachformen | Die Schuelerinnen und Schueler koennen einfache sprachliche Ausdrucksformen in Gespraechsbeitraegen einsetzen. | Die Schuelerinnen und Schueler koennen bewusst sprachliche Ausdrucksformen und einfache normierte Sprachmuster in Gespraechsbeitraegen richtig einsetzen. | Die Schuelerinnen und Schueler koennen sprachliche Ausdrucksformen und normierte Sprachmuster in monologischen wie dialogischen Sprechbeitraegen sicher und situationsangemessen einsetzen. |
-| Nonverbale Kommunikation | Die Schuelerinnen und Schueler koennen nonverbale Kommunikation im Gespraech wahrnehmen. | Die Schuelerinnen und Schueler koennen nonverbale Kommunikation im Gespraech bewusst beruecksichtigen. | Die Schuelerinnen und Schueler koennen nonverbale Kommunikation gezielt und wirkungsvoll im Gespraech einsetzen. |
-| Sprachregister | Die Schuelerinnen und Schueler koennen verschiedene Sprachregister wahrnehmen. | Die Schuelerinnen und Schueler koennen sich verschiedener Sprachregister der Situation angemessen bedienen. | Die Schuelerinnen und Schueler koennen verschiedene Sprachregister sicher und flexibel der Situation angemessen einsetzen. |
+| Hörverstehen | Die Schülerinnen und Schüler können einfache Strategien für das Hörverstehen anwenden. | Die Schülerinnen und Schüler können Strategien für das Hörverstehen entwickeln und zuhörerbezogen anwenden. | Die Schülerinnen und Schüler können differenzierte Strategien für das Hörverstehen entwickeln und situations- sowie zuhörerbezogen anwenden. |
+| Sprachformen | Die Schülerinnen und Schüler können einfache sprachliche Ausdrucksformen in Gesprächsbeiträgen einsetzen. | Die Schülerinnen und Schüler können bewusst sprachliche Ausdrucksformen und einfache normierte Sprachmuster in Gesprächsbeiträgen richtig einsetzen. | Die Schülerinnen und Schüler können sprachliche Ausdrucksformen und normierte Sprachmuster in monologischen wie dialogischen Sprechbeiträgen sicher und situationsangemessen einsetzen. |
+| Nonverbale Kommunikation | Die Schülerinnen und Schüler können nonverbale Kommunikation im Gespräch wahrnehmen. | Die Schülerinnen und Schüler können nonverbale Kommunikation im Gespräch bewusst berücksichtigen. | Die Schülerinnen und Schüler können nonverbale Kommunikation gezielt und wirkungsvoll im Gespräch einsetzen. |
+| Sprachregister | Die Schülerinnen und Schüler können verschiedene Sprachregister wahrnehmen. | Die Schülerinnen und Schüler können sich verschiedener Sprachregister der Situation angemessen bedienen. | Die Schülerinnen und Schüler können verschiedene Sprachregister sicher und flexibel der Situation angemessen einsetzen. |
 
 ### Kompetenzbereich: Lesen
 
 | Teilkompetenz | Kompetenzniveau 1 | Kompetenzniveau 2 | Kompetenzniveau 3 |
 |---|---|---|---|
-| Lesefluessigkeit | Die Schuelerinnen und Schueler koennen zunehmend oekonomisch lesen. | Die Schuelerinnen und Schueler koennen oekonomisch lesen und Lesestrategien zunehmend bewusst einsetzen. | Die Schuelerinnen und Schueler koennen oekonomisch und flexibel lesen und Lesestrategien gezielt nach Zielvorgabe einsetzen. |
-| Textverstaendnis | Die Schuelerinnen und Schueler koennen Texte mit Hilfestellungen verstehend lesen. | Die Schuelerinnen und Schueler koennen Texte durch adaequate Hilfestellungen verstehend und reflexiv lesen. | Die Schuelerinnen und Schueler koennen Texte zunehmend selbststaendig verstehend und reflexiv lesen. |
-| Literarische Kompetenz | Die Schuelerinnen und Schueler koennen zu gelesenen Texten eigene Gedanken entwickeln. | Die Schuelerinnen und Schueler koennen ihre literarische Kompetenz zunehmend aufbauen und in der Anschlusskommunikation Stellung nehmen. | Die Schuelerinnen und Schueler koennen ihre literarische Kompetenz aufbauen, Analogien bilden und auch kritisch Stellung nehmen. |
+| Leseflüssigkeit | Die Schülerinnen und Schüler können zunehmend ökonomisch lesen. | Die Schülerinnen und Schüler können ökonomisch lesen und Lesestrategien zunehmend bewusst einsetzen. | Die Schülerinnen und Schüler können ökonomisch und flexibel lesen und Lesestrategien gezielt nach Zielvorgabe einsetzen. |
+| Textverständnis | Die Schülerinnen und Schüler können Texte mit Hilfestellungen verstehend lesen. | Die Schülerinnen und Schüler können Texte durch adäquate Hilfestellungen verstehend und reflexiv lesen. | Die Schülerinnen und Schüler können Texte zunehmend selbstständig verstehend und reflexiv lesen. |
+| Literarische Kompetenz | Die Schülerinnen und Schüler können zu gelesenen Texten eigene Gedanken entwickeln. | Die Schülerinnen und Schüler können ihre literarische Kompetenz zunehmend aufbauen und in der Anschlusskommunikation Stellung nehmen. | Die Schülerinnen und Schüler können ihre literarische Kompetenz aufbauen, Analogien bilden und auch kritisch Stellung nehmen. |
 
 ### Kompetenzbereich: Verfassen von Texten
 
 | Teilkompetenz | Kompetenzniveau 1 | Kompetenzniveau 2 | Kompetenzniveau 3 |
 |---|---|---|---|
-| Textmuster | Die Schuelerinnen und Schueler koennen einfache Textmuster nutzen und Texte planen und verfassen. | Die Schuelerinnen und Schueler koennen unterschiedliche konzeptionell muendliche wie schriftliche Textmuster bewusst nutzen und Texte entsprechend sinnvoll planen und verfassen. | Die Schuelerinnen und Schueler koennen vielfaeltige Textmuster zu freien und vorgegebenen Themen sicher nutzen und Texte differenziert planen und verfassen. |
-| Textueberarbeitung | Die Schuelerinnen und Schueler koennen Texte mit Unterstuetzung ueberpruefen und berichtigen. | Die Schuelerinnen und Schueler koennen adressatengerechte, situationsbezogene und intentionsgeleitete Texte nach bestimmten Aspekten ueberpruefen und mit Hilfsmitteln ueberarbeiten. | Die Schuelerinnen und Schueler koennen Texte zunehmend selbststaendig nach verschiedenen Aspekten ueberpruefen, ueberarbeiten und berichtigen. |
+| Textmuster | Die Schülerinnen und Schüler können einfache Textmuster nutzen und Texte planen und verfassen. | Die Schülerinnen und Schüler können unterschiedliche konzeptionell mündliche wie schriftliche Textmuster bewusst nutzen und Texte entsprechend sinnvoll planen und verfassen. | Die Schülerinnen und Schüler können vielfältige Textmuster zu freien und vorgegebenen Themen sicher nutzen und Texte differenziert planen und verfassen. |
+| Textüberarbeitung | Die Schülerinnen und Schüler können Texte mit Unterstützung überprüfen und berichtigen. | Die Schülerinnen und Schüler können adressatengerechte, situationsbezogene und intentionsgeleitete Texte nach bestimmten Aspekten überprüfen und mit Hilfsmitteln überarbeiten. | Die Schülerinnen und Schüler können Texte zunehmend selbstständig nach verschiedenen Aspekten überprüfen, überarbeiten und berichtigen. |
 
 ### Kompetenzbereich: (Recht-)Schreiben und Sprachbetrachtung
 
 | Teilkompetenz | Kompetenzniveau 1 | Kompetenzniveau 2 | Kompetenzniveau 3 |
 |---|---|---|---|
-| Regelbildung | Die Schuelerinnen und Schueler koennen beim Ab- und Aufschreiben einfache Regelbildungen erkennen und anwenden. | Die Schuelerinnen und Schueler koennen beim Ab- und Aufschreiben Regelbildungen bewusst erkennen, reflektieren und anwenden. | Die Schuelerinnen und Schueler koennen Regelbildungen sicher erkennen, reflektieren, anwenden und den erarbeiteten Wortschatz in verschiedenen Uebungsformen einsetzen. |
-| Rechtschreibstrategien | Die Schuelerinnen und Schueler koennen einfache Einsichten in orthografische Regelelemente gewinnen. | Die Schuelerinnen und Schueler koennen zunehmend Einsicht in Woerter mit orthografischen Regel- und Merkelementen gewinnen und Rechtschreibstrategien einsetzen. | Die Schuelerinnen und Schueler koennen Rechtschreibstrategien fuer das richtige Schreiben von Woertern sowie unterschiedliche Medien als Rechtschreibhilfe sicher einsetzen. |
-| Wortbildung | Die Schuelerinnen und Schueler koennen einfache formbildende Elemente fuer die Bildung neuer Woerter nutzen. | Die Schuelerinnen und Schueler koennen formbildende Elemente fuer die Bildung neuer Woerter nutzen, aus verschiedenen Wortarten neue Woerter bilden sowie sinnverwandte Woerter erkennen. | Die Schuelerinnen und Schueler koennen formbildende Elemente sicher fuer die Wortbildung nutzen und Woerter nach unterschiedlichen Kriterien strukturieren. |
-| Grammatik | Die Schuelerinnen und Schueler koennen einfache Wortarten erkennen. | Die Schuelerinnen und Schueler koennen die Wortarten Nomen, Verb, Adjektiv zunehmend mit Fachbegriffen benennen und den Zusammenhang zwischen Zeitstufen und Zeitformen erkennen. | Die Schuelerinnen und Schueler koennen Wortarten sicher benennen, Zeitformen erkennen und durch handlungsorientierte Verfahren Einsicht in die Syntax gewinnen. |
+| Regelbildung | Die Schülerinnen und Schüler können beim Ab- und Aufschreiben einfache Regelbildungen erkennen und anwenden. | Die Schülerinnen und Schüler können beim Ab- und Aufschreiben Regelbildungen bewusst erkennen, reflektieren und anwenden. | Die Schülerinnen und Schüler können Regelbildungen sicher erkennen, reflektieren, anwenden und den erarbeiteten Wortschatz in verschiedenen Übungsformen einsetzen. |
+| Rechtschreibstrategien | Die Schülerinnen und Schüler können einfache Einsichten in orthografische Regelelemente gewinnen. | Die Schülerinnen und Schüler können zunehmend Einsicht in Wörter mit orthografischen Regel- und Merkelementen gewinnen und Rechtschreibstrategien einsetzen. | Die Schülerinnen und Schüler können Rechtschreibstrategien für das richtige Schreiben von Wörtern sowie unterschiedliche Medien als Rechtschreibhilfe sicher einsetzen. |
+| Wortbildung | Die Schülerinnen und Schüler können einfache formbildende Elemente für die Bildung neuer Wörter nutzen. | Die Schülerinnen und Schüler können formbildende Elemente für die Bildung neuer Wörter nutzen, aus verschiedenen Wortarten neue Wörter bilden sowie sinnverwandte Wörter erkennen. | Die Schülerinnen und Schüler können formbildende Elemente sicher für die Wortbildung nutzen und Wörter nach unterschiedlichen Kriterien strukturieren. |
+| Grammatik | Die Schülerinnen und Schüler können einfache Wortarten erkennen. | Die Schülerinnen und Schüler können die Wortarten Nomen, Verb, Adjektiv zunehmend mit Fachbegriffen benennen und den Zusammenhang zwischen Zeitstufen und Zeitformen erkennen. | Die Schülerinnen und Schüler können Wortarten sicher benennen, Zeitformen erkennen und durch handlungsorientierte Verfahren Einsicht in die Syntax gewinnen. |
+
+<details>
+<summary>Erläuterungen zu den Einträgen – 3. Schulstufe</summary>
+
+Die **Progression N1 → N2 → N3** folgt bei allen Teilkompetenzen demselben Grundmuster:
+> wahrnehmen / erkennen → **bewusst** berücksichtigen / einsetzen → **sicher und flexibel** anwenden
+
+#### (Zu-)Hören und Sprechen
+
+**Hörverstehen** – Wie aktiv hört das Kind zu und geht es mit dem Gehörten um?
+- N1: Wendet eine vorgegebene Strategie an (z. B. Stichworte notieren, Schlüsselwörter markieren).
+- N2: Entwickelt selbst Strategien und passt sie an den Gesprächspartner an.
+- N3: Setzt differenzierte Strategien flexibel je nach Situation und Zuhörer ein.
+
+**Sprachformen** – Wie differenziert drückt sich das Kind aus?
+- N1: Grundlegendes Vokabular in einfachen Sätzen.
+- N2: Bewusster Einsatz von Fachbegriffen und normierten Sprachmustern (z. B. korrekte Höflichkeitsformen).
+- N3: Sichere Anpassung von Sprachstil und Ausdrucksform an Situation und Gesprächspartner; souverän in Monolog und Dialog.
+
+**Nonverbale Kommunikation** – Gestik, Mimik, Körpersprache:
+- N1: Das Kind nimmt wahr, dass Körpersprache im Gespräch eine Rolle spielt.
+- N2: Das Kind berücksichtigt bewusst die eigene und fremde Körpersprache.
+- N3: Das Kind setzt Körpersprache gezielt und wirkungsvoll ein (z. B. beim Erzählen, Präsentieren).
+
+**Sprachregister** – Umgangssprache / Standardsprache / Bildungssprache:
+- N1: Das Kind nimmt wahr, dass es unterschiedliche Sprachebenen gibt.
+- N2: Das Kind wählt situationsgemäß das passende Register (z. B. anders mit Freunden als bei einer Präsentation).
+- N3: Das Kind wechselt sicher und flexibel zwischen Registern und begründet die Wahl.
+
+#### Lesen
+
+**Leseflüssigkeit** – Wie flüssig und strategisch liest das Kind?
+- N1: Liest zunehmend ökonomisch (ohne lange zu stocken, mit Satzmelodie).
+- N2: Liest ökonomisch und setzt Lesestrategien bewusst ein (z. B. Schlüsselwörter markieren, Abschnitte zusammenfassen).
+- N3: Liest flexibel und wählt Lesestrategien gezielt nach Lesezweck (rasch überfliegen vs. gründlich lesen).
+
+**Textverständnis** – Wie tief versteht das Kind einen Text?
+- N1: Versteht einen Text mit direkter Unterstützung (Fragen, Worterklärungen).
+- N2: Versteht mit gezielten Hilfestellungen und beginnt, reflexiv zu lesen (Was meint der Autor? Was bleibt offen?).
+- N3: Liest zunehmend selbstständig und hinterfragend; erkennt auch implizite Aussagen.
+
+**Literarische Kompetenz** – Wie geht das Kind mit Literatur um?
+- N1: Entwickelt eigene Gedanken zum Gelesenen (Was gefällt mir? Was finde ich seltsam?).
+- N2: Nimmt in der Diskussion Stellung und begründet die eigene Meinung.
+- N3: Bildet Analogien (z. B. zu anderen Texten, zu eigenen Erfahrungen), nimmt auch kritisch Stellung.
+
+#### Verfassen von Texten
+
+**Textmuster** – Wie sicher kennt und nutzt das Kind verschiedene Textsorten?
+- N1: Nutzt einfache, vertraute Muster (z. B. Erlebniserzählung mit Anfang–Mitte–Ende).
+- N2: Nutzt bewusst verschiedene Muster (z. B. Erzählung, Bericht, Beschreibung) und plant Texte gezielt.
+- N3: Beherrscht vielfältige Muster sicher und wählt je nach Thema und Zweck den passenden Typ.
+
+**Textüberarbeitung** – Wie selbstständig verbessert das Kind eigene Texte?
+- N1: Überarbeitet mit direkter Unterstützung (Lehrperson zeigt konkrete Stelle).
+- N2: Überarbeitet nach vorgegebenen Aspekten mit Hilfsmitteln (z. B. Checkliste, Wörterbuch).
+- N3: Überarbeitet zunehmend selbstständig nach inhaltlichen, sprachlichen und orthografischen Kriterien.
+
+#### (Recht-)Schreiben und Sprachbetrachtung
+
+**Regelbildung** – Wie sicher wendet das Kind Rechtschreibregeln an?
+- N1: Erkennt und wendet einfache Regeln beim Ab- und Aufschreiben an.
+- N2: Reflektiert Regelbildungen bewusst und überträgt sie auf neue Wörter.
+- N3: Wendet Regeln sicher an und übt den Wortschatz in verschiedenen Übungsformen.
+
+**Rechtschreibstrategien** – Welche Strategien nutzt das Kind zum richtigen Schreiben?
+- N1: Gewinnt erste Einsichten in Rechtschreibmuster (z. B. „ie" für langen i-Laut).
+- N2: Nutzt Strategien (Verlängerungsprobe, Stammformbestimmung) und erkennt Merk- und Regelwörter.
+- N3: Setzt Strategien sicher ein und nutzt Wörterbuch oder digitale Rechtschreibhilfen selbstständig.
+
+**Wortbildung** – Wie komplex arbeitet das Kind mit Wortbausteinen?
+- N1: Nutzt einfache Bausteine (z. B. *un-*, *-ung*) für neue Wörter.
+- N2: Bildet Wörter aus verschiedenen Wortarten (z. B. Adjektiv → Nomen: *schön → Schönheit*), erkennt Synonyme.
+- N3: Strukturiert Wörter nach verschiedenen Kriterien (semantisch, morphologisch).
+
+**Grammatik** – Welche Grammatikbegriffe beherrscht das Kind?
+- N1: Erkennt einfache Wortarten (Nomen, Verb).
+- N2: Benennt Nomen, Verb, Adjektiv mit Fachbegriffen; erkennt den Zusammenhang zwischen Zeitstufen und Zeitformen (Gegenwart, Vergangenheit).
+- N3: Benennt Wortarten sicher; erkennt Zeitformen; gewinnt erste Einsicht in Satzstruktur (Syntax) durch handlungsorientierte Zugänge.
+
+</details>
 
 ---
 
 ## 4. Schulstufe
 
-### Kompetenzbereich: (Zu-)Hoeren und Sprechen
+:::note Schwerpunkte der 4. Schulstufe
+Sprechen und Schreiben werden adressatengerechter und überzeugender. Im Lesen steht die Auseinandersetzung mit verschiedenen Textgattungen und ihren Merkmalen im Vordergrund. Rechtschreibstrategien werden sicher und flexibel eingesetzt – und begründet. Grammatik wird um Satzglieder, Zeitformen und direkte Rede erweitert.
+:::
+
+### Kompetenzbereich: (Zu-)Hören und Sprechen
 
 | Teilkompetenz | Kompetenzniveau 1 | Kompetenzniveau 2 | Kompetenzniveau 3 |
 |---|---|---|---|
-| Kommunikationskultur | Die Schuelerinnen und Schueler koennen unter Beruecksichtigung von Hoerverstehen und Sprechhandlungen an einer Kommunikationskultur teilnehmen. | Die Schuelerinnen und Schueler koennen unter Beruecksichtigung von Hoerverstehen, Sprechhandlungen und sprachlichen Gestaltungsmitteln eine Kommunikationskultur anwenden. | Die Schuelerinnen und Schueler koennen eine Kommunikationskultur anwenden und einfordern sowie sprachliche Gestaltungsmittel gezielt einsetzen. |
-| Adressatengerechtes Sprechen | Die Schuelerinnen und Schueler koennen ueber Beobachtungen und Sachverhalte verstaendlich sprechen. | Die Schuelerinnen und Schueler koennen ausdrucksvoll und an der Standardsprache ausgerichtet ueber Beobachtungen und Sachverhalte in monologischen wie dialogischen Sprechbeitraegen adressatengerecht sprechen. | Die Schuelerinnen und Schueler koennen differenziert, ausdrucksvoll und situationsgerecht ueber Sachverhalte in vielfaeltigen Sprechbeitraegen adressatengerecht und ueberzeugend sprechen. |
+| Kommunikationskultur | Die Schülerinnen und Schüler können unter Berücksichtigung von Hörverstehen und Sprechhandlungen an einer Kommunikationskultur teilnehmen. | Die Schülerinnen und Schüler können unter Berücksichtigung von Hörverstehen, Sprechhandlungen und sprachlichen Gestaltungsmitteln eine Kommunikationskultur anwenden. | Die Schülerinnen und Schüler können eine Kommunikationskultur anwenden und einfordern sowie sprachliche Gestaltungsmittel gezielt einsetzen. |
+| Adressatengerechtes Sprechen | Die Schülerinnen und Schüler können über Beobachtungen und Sachverhalte verständlich sprechen. | Die Schülerinnen und Schüler können ausdrucksvoll und an der Standardsprache ausgerichtet über Beobachtungen und Sachverhalte in monologischen wie dialogischen Sprechbeiträgen adressatengerecht sprechen. | Die Schülerinnen und Schüler können differenziert, ausdrucksvoll und situationsgerecht über Sachverhalte in vielfältigen Sprechbeiträgen adressatengerecht und überzeugend sprechen. |
 
 ### Kompetenzbereich: Lesen
 
 | Teilkompetenz | Kompetenzniveau 1 | Kompetenzniveau 2 | Kompetenzniveau 3 |
 |---|---|---|---|
-| Lesekompetenz | Die Schuelerinnen und Schueler koennen oekonomisch lesen und einfache Lesestrategien nach Zielvorgabe einsetzen. | Die Schuelerinnen und Schueler koennen oekonomisch lesen, Lesestrategien bewusst nach Zielvorgabe einsetzen sowie den Wortschatz mit geeigneten Hilfsmitteln ausdifferenzieren. | Die Schuelerinnen und Schueler koennen oekonomisch und flexibel lesen, Lesestrategien gezielt einsetzen und den Wortschatz sicher mit analogen und digitalen Hilfsmitteln erweitern. |
-| Literarische Kompetenz | Die Schuelerinnen und Schueler koennen einfache Textgattungen unterscheiden. | Die Schuelerinnen und Schueler koennen ihre literarische Kompetenz um die Auseinandersetzung mit Textgattungen, Beschaffenheit und Merkmalen von Texten erweitern und sich in der Anschlusskommunikation austauschen. | Die Schuelerinnen und Schueler koennen ihre literarische Kompetenz vertiefen, Texte analysieren und sich selbststaendig in der Anschlusskommunikation austauschen. |
+| Lesekompetenz | Die Schülerinnen und Schüler können ökonomisch lesen und einfache Lesestrategien nach Zielvorgabe einsetzen. | Die Schülerinnen und Schüler können ökonomisch lesen, Lesestrategien bewusst nach Zielvorgabe einsetzen sowie den Wortschatz mit geeigneten Hilfsmitteln ausdifferenzieren. | Die Schülerinnen und Schüler können ökonomisch und flexibel lesen, Lesestrategien gezielt einsetzen und den Wortschatz sicher mit analogen und digitalen Hilfsmitteln erweitern. |
+| Literarische Kompetenz | Die Schülerinnen und Schüler können einfache Textgattungen unterscheiden. | Die Schülerinnen und Schüler können ihre literarische Kompetenz um die Auseinandersetzung mit Textgattungen, Beschaffenheit und Merkmalen von Texten erweitern und sich in der Anschlusskommunikation austauschen. | Die Schülerinnen und Schüler können ihre literarische Kompetenz vertiefen, Texte analysieren und sich selbstständig in der Anschlusskommunikation austauschen. |
 
 ### Kompetenzbereich: Verfassen von Texten
 
 | Teilkompetenz | Kompetenzniveau 1 | Kompetenzniveau 2 | Kompetenzniveau 3 |
 |---|---|---|---|
-| Schreibabsichten | Die Schuelerinnen und Schueler koennen einfache Schreibabsichten nutzen und Texte planen. | Die Schuelerinnen und Schueler koennen unterschiedliche Schreibabsichten (erzaehlen, informieren, notieren, appellieren) nutzen, Texte sinnvoll planen und mit bewusstem Einsatz sprachlicher Mittel verfassen. | Die Schuelerinnen und Schueler koennen vielfaeltige Schreibabsichten sicher nutzen, Texte differenziert planen und unter Nutzung von Informationsquellen ueberzeugend verfassen. |
-| Textueberarbeitung | Die Schuelerinnen und Schueler koennen Texte unter Anleitung ueberpruefen und berichtigen. | Die Schuelerinnen und Schueler koennen adressatengerechte Texte unter Einsatz von Ueberarbeitungsstrategien ueberpruefen und mit Hilfsmitteln berichtigen. | Die Schuelerinnen und Schueler koennen Texte selbststaendig ueberpruefen, besonders gelungene Textstellen erkennen und gewonnene Erkenntnisse adaptieren. |
+| Schreibabsichten | Die Schülerinnen und Schüler können einfache Schreibabsichten nutzen und Texte planen. | Die Schülerinnen und Schüler können unterschiedliche Schreibabsichten (erzählen, informieren, notieren, appellieren) nutzen, Texte sinnvoll planen und mit bewusstem Einsatz sprachlicher Mittel verfassen. | Die Schülerinnen und Schüler können vielfältige Schreibabsichten sicher nutzen, Texte differenziert planen und unter Nutzung von Informationsquellen überzeugend verfassen. |
+| Textüberarbeitung | Die Schülerinnen und Schüler können Texte unter Anleitung überprüfen und berichtigen. | Die Schülerinnen und Schüler können adressatengerechte Texte unter Einsatz von Überarbeitungsstrategien überprüfen und mit Hilfsmitteln berichtigen. | Die Schülerinnen und Schüler können Texte selbstständig überprüfen, besonders gelungene Textstellen erkennen und gewonnene Erkenntnisse adaptieren. |
 
 ### Kompetenzbereich: (Recht-)Schreiben und Sprachbetrachtung
 
 | Teilkompetenz | Kompetenzniveau 1 | Kompetenzniveau 2 | Kompetenzniveau 3 |
 |---|---|---|---|
-| Regelwissen | Die Schuelerinnen und Schueler koennen beim Ab- und Aufschreiben auf einfaches Regelwissen zurueckgreifen. | Die Schuelerinnen und Schueler koennen beim Ab- und Aufschreiben auf erworbenes Regelwissen zurueckgreifen sowie von rechtschreibmaessig gesicherten Woertern zur Schreibung anderer Wortformen gelangen. | Die Schuelerinnen und Schueler koennen ihr Regelwissen sicher anwenden und flexibel von gesicherten Woertern auf neue Wortformen uebertragen. |
-| Rechtschreibstrategien | Die Schuelerinnen und Schueler koennen einfache Rechtschreibstrategien fuer normgerechtes Schreiben nutzen. | Die Schuelerinnen und Schueler koennen erworbene Rechtschreibstrategien fuer normgerechtes Schreiben nutzen, ihre Schreibung von Woertern begruenden sowie unterschiedliche Medien als Rechtschreibhilfe einsetzen. | Die Schuelerinnen und Schueler koennen Rechtschreibstrategien sicher und flexibel einsetzen, Schreibungen differenziert begruenden und vielfaeltige Medien als Hilfsmittel nutzen. |
-| Wortschatz | Die Schuelerinnen und Schueler koennen einfache Wortzusammensetzungen erkennen. | Die Schuelerinnen und Schueler koennen das Wissen ueber Wortzusammensetzungen nutzen sowie sinnverwandte Woerter in ihren unterschiedlichen Bedeutungen erkennen und begruendet einsetzen. | Die Schuelerinnen und Schueler koennen Wortzusammensetzungen sicher analysieren und sinnverwandte Woerter differenziert und begruendet einsetzen. |
-| Grammatik | Die Schuelerinnen und Schueler koennen einfache Zeitformen in Texten erkennen und direkte Rede wahrnehmen. | Die Schuelerinnen und Schueler koennen die verschiedenen Zeitformen in Texten erkennen und adaequat anwenden, direkte Rede gebrauchen, Satzglieder unterscheiden und die wichtigsten bestimmen und richtig benennen. | Die Schuelerinnen und Schueler koennen Zeitformen sicher anwenden, direkte Rede korrekt einsetzen, Satzglieder sicher bestimmen und mit Fachbegriffen benennen. |
+| Regelwissen | Die Schülerinnen und Schüler können beim Ab- und Aufschreiben auf einfaches Regelwissen zurückgreifen. | Die Schülerinnen und Schüler können beim Ab- und Aufschreiben auf erworbenes Regelwissen zurückgreifen sowie von rechtschreibmäßig gesicherten Wörtern zur Schreibung anderer Wortformen gelangen. | Die Schülerinnen und Schüler können ihr Regelwissen sicher anwenden und flexibel von gesicherten Wörtern auf neue Wortformen übertragen. |
+| Rechtschreibstrategien | Die Schülerinnen und Schüler können einfache Rechtschreibstrategien für normgerechtes Schreiben nutzen. | Die Schülerinnen und Schüler können erworbene Rechtschreibstrategien für normgerechtes Schreiben nutzen, ihre Schreibung von Wörtern begründen sowie unterschiedliche Medien als Rechtschreibhilfe einsetzen. | Die Schülerinnen und Schüler können Rechtschreibstrategien sicher und flexibel einsetzen, Schreibungen differenziert begründen und vielfältige Medien als Hilfsmittel nutzen. |
+| Wortschatz | Die Schülerinnen und Schüler können einfache Wortzusammensetzungen erkennen. | Die Schülerinnen und Schüler können das Wissen über Wortzusammensetzungen nutzen sowie sinnverwandte Wörter in ihren unterschiedlichen Bedeutungen erkennen und begründet einsetzen. | Die Schülerinnen und Schüler können Wortzusammensetzungen sicher analysieren und sinnverwandte Wörter differenziert und begründet einsetzen. |
+| Grammatik | Die Schülerinnen und Schüler können einfache Zeitformen in Texten erkennen und direkte Rede wahrnehmen. | Die Schülerinnen und Schüler können die verschiedenen Zeitformen in Texten erkennen und adäquat anwenden, direkte Rede gebrauchen, Satzglieder unterscheiden und die wichtigsten bestimmen und richtig benennen. | Die Schülerinnen und Schüler können Zeitformen sicher anwenden, direkte Rede korrekt einsetzen, Satzglieder sicher bestimmen und mit Fachbegriffen benennen. |
+
+<details>
+<summary>Erläuterungen zu den Einträgen – 4. Schulstufe</summary>
+
+#### (Zu-)Hören und Sprechen
+
+**Kommunikationskultur** – Wie aktiv gestaltet das Kind die Gesprächskultur mit?
+- N1: Nimmt an einer Kommunikationskultur teil (Regeln einhalten, zuhören, sich melden).
+- N2: Wendet Kommunikationskultur aktiv an und setzt sprachliche Gestaltungsmittel ein (z. B. Feedback geben, Meinungen begründen, Fragen stellen).
+- N3: Fordert respektvolle Kommunikation auch von anderen ein; nutzt Gestaltungsmittel gezielt (z. B. Diskussionsregeln einhalten und einmahnen).
+
+**Adressatengerechtes Sprechen** – Wie gut passt das Kind seine Sprache an Zuhörer und Situation an?
+- N1: Drückt sich verständlich aus (Grundverständlichkeit).
+- N2: Spricht ausdrucksvoll, standardsprachlich und adressatengerecht – sowohl im Gespräch als auch beim Vortrag.
+- N3: Spricht differenziert, überzeugend und situationsgerecht – auch in anspruchsvollen Kontexten (z. B. Referat, Diskussion, Klassenrat).
+
+#### Lesen
+
+**Lesekompetenz** – Wie strategisch und eigenständig liest das Kind?
+- N1: Liest flüssig und setzt einfache Strategien nach Vorgabe ein.
+- N2: Liest strategisch und bewusst; erschließt unbekannte Wörter mit Hilfsmitteln (Wörterbuch, Lexikon).
+- N3: Liest flexibel und selbstgesteuert; nutzt analoge und digitale Hilfsmittel eigenständig.
+
+**Literarische Kompetenz** – Wie setzt sich das Kind mit Textsorten auseinander?
+- N1: Unterscheidet einfache Textgattungen (z. B. Gedicht, Erzählung, Sachtext).
+- N2: Analysiert Merkmale und Aufbau verschiedener Textgattungen; tauscht sich mit anderen über Texte aus.
+- N3: Analysiert Texte eigenständig, nimmt differenziert Stellung und führt Gespräche über Texte selbstständig.
+
+#### Verfassen von Texten
+
+**Schreibabsichten** – Wofür schreibt das Kind, und wie vielseitig ist es dabei?
+- N1: Nutzt einfache Schreibabsichten (z. B. erzählen) und plant grob.
+- N2: Kennt und nutzt vier Absichten (erzählen, informieren, notieren, appellieren); plant strukturiert und setzt sprachliche Mittel bewusst ein.
+- N3: Beherrscht vielfältige Absichten sicher, plant differenziert und recherchiert eigenständig Informationen aus verschiedenen Quellen.
+
+**Textüberarbeitung** – Wie selbstreflexiv überarbeitet das Kind?
+- N1: Überarbeitet mit direkter Anleitung (Lehrperson zeigt konkrete Stellen).
+- N2: Überarbeitet mit Hilfsmitteln nach vorgegebenen Kriterien (Checkliste, Rechtschreibprogramm).
+- N3: Überarbeitet eigenständig, erkennt besonders gelungene Textstellen und überträgt Erkenntnisse auf künftige Texte.
+
+#### (Recht-)Schreiben und Sprachbetrachtung
+
+**Regelwissen** – Wie sicher überträgt das Kind Rechtschreibregeln auf neue Wörter?
+- N1: Greift auf einfaches, vertrautes Regelwissen zurück.
+- N2: Überträgt Regelwissen auf ähnliche Wörter (z. B. von *laufen* auf *Lauf*, *gelaufen*, *läuft*).
+- N3: Überträgt flexibel und sicher auf unbekannte Wortformen.
+
+**Rechtschreibstrategien** – Kann das Kind seine Schreibungen begründen?
+- N1: Nutzt einfache Strategien (z. B. laut sprechen, Silben klopfen).
+- N2: Begründet Schreibungen (z. B. „groß, weil Nomen") und nutzt Medien als Hilfe.
+- N3: Begründet differenziert und nutzt vielfältige analoge und digitale Hilfsmittel sicher.
+
+**Wortschatz** – Wie differenziert setzt das Kind Wörter ein?
+- N1: Erkennt einfache Wortzusammensetzungen (z. B. *Haustür = Haus + Tür*).
+- N2: Nutzt Kenntnisse über Zusammensetzungen aktiv; erkennt Bedeutungsunterschiede bei Synonymen und setzt sie begründet ein.
+- N3: Analysiert Zusammensetzungen sicher; setzt Synonyme differenziert und begründet ein.
+
+**Grammatik** – Welche grammatischen Strukturen beherrscht das Kind?
+- N1: Erkennt einfache Zeitformen (Gegenwart, Vergangenheit); nimmt direkte Rede im Text wahr.
+- N2: Wendet Zeitformen adäquat an; setzt direkte Rede ein; unterscheidet und benennt die wichtigsten Satzglieder (Subjekt, Prädikat, Objekt).
+- N3: Beherrscht Zeitformen sicher; setzt direkte Rede korrekt mit Zeichensetzung ein; bestimmt Satzglieder sicher mit Fachbegriffen.
+
+</details>
 
 ---
 
-*Quelle: Lehrplan der Volksschule, BGBl. Nr. 134/1963 zuletzt geaendert durch BGBl. II Nr. 178/2025 sowie Kompetenzraster des BMBWF (Paedagogik-Paket). Weitere Informationen: [paedagogikpaket.at](https://paedagogikpaket.at/massnahmen/kompetenzraster.html)*
+*Quelle: Lehrplan der Volksschule, BGBl. Nr. 134/1963 zuletzt geändert durch BGBl. II Nr. 178/2025 sowie Kompetenzraster des BMBWF (Pädagogik-Paket). Weitere Informationen: [paedagogikpaket.at](https://paedagogikpaket.at/massnahmen/kompetenzraster.html)*
