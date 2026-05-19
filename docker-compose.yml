@@ -2,4 +2,4 @@ services:
   lehrplan:
     image: ghcr.io/kahalm/lehrplan-at:latest
     ports:
-      - "8080:80"
+      - "8088:80"
