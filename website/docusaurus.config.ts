@@ -85,6 +85,12 @@ const config: Config = {
           label: 'Vergleich',
         },
         {
+          type: 'docSidebar',
+          sidebarId: 'quellenSidebar',
+          position: 'left',
+          label: 'Quellen & Links',
+        },
+        {
           href: 'https://github.com/kahalm/lehrplan-at',
           label: 'GitHub',
           position: 'right',

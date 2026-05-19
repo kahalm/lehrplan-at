@@ -151,7 +151,7 @@ Durchgehender Begriffswechsel: „Erziehung" → „Bildung" / „Pädagogik"
 | Erstlesen | Detaillierter Leselehrgang | Kompakt: Graphem-Phonem-Korrespondenz |
 | Fraktur lesen | Explizit in 4. SSt | Entfallen |
 | Schrift/Typografie | Eigener Teilbereich | Entfallen als eigenständiger Bereich |
-| Mundart vs. Standardsprache | Eigenes Thema | Entfallen |
+| Mundart vs. Standardsprache | Eigenes Thema (Kontrastpaar Mundart/Standardsprache) | Kontrastpaar „Mundart vs. Standardsprache" entfallen; Standardsprache aber durchgängig als Zielnorm verankert (jede Schulstufe, Kompetenzbereich Sprechen); Sprachvariation über „Sprachvarietäten" und Konzept „Identität und Diversität" abgedeckt |
 | 4 Fälle des Namenwortes | Explizit | Nicht mehr explizit |
 | Klassenrat/Klassenparlament | Nicht erwähnt | Neu ab 3. SSt |
 | Österreichisches Deutsch | Nicht explizit | Explizit als Unterrichts-/Bildungssprache |
