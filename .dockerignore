@@ -1,0 +1,9 @@
+node_modules
+website/node_modules
+website/build
+website/.docusaurus
+.git
+volksschule/**/*.pdf
+volksschule/**/*_volltext.txt
+*.pdf
+*.jsonl
