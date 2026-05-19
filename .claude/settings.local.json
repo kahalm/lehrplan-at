@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.ris.bka.gv.at)",
+      "WebSearch",
+      "Bash(wc:*)",
+      "Bash(cd:*)",
+      "Bash(cd /c/git/lehrplan && git branch -M main && git push -u origin main 2>&1)",
+      "Bash(tail:*)",
+      "Bash(grep MDX compilation failed:*)"
+    ]
+  }
+}
