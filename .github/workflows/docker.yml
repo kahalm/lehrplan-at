@@ -41,5 +41,5 @@ jobs:
           context: .
           target: prod
           push: true
-          tags: ${{ steps.meta.tags }}
-          labels: ${{ steps.meta.labels }}
+          tags: ${{ steps.meta.outputs.tags }}
+          labels: ${{ steps.meta.outputs.labels }}
