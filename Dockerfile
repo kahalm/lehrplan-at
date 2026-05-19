@@ -14,6 +14,8 @@ CMD ["npm", "start", "--", "--host", "0.0.0.0"]
 FROM base AS build
 COPY --from=deps /app/node_modules ./node_modules
 COPY website/ ./
+ENV SITE_URL=http://localhost
+ENV BASE_URL=/
 RUN npm run build
 
 FROM nginx:alpine AS prod

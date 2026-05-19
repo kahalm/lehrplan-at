@@ -11,8 +11,8 @@ const config: Config = {
     v4: true,
   },
 
-  url: 'https://kahalm.github.io',
-  baseUrl: '/lehrplan-at/',
+  url: process.env.SITE_URL || 'https://kahalm.github.io',
+  baseUrl: process.env.BASE_URL || '/lehrplan-at/',
 
   organizationName: 'kahalm',
   projectName: 'lehrplan-at',
