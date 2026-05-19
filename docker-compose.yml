@@ -1,19 +1,5 @@
 services:
   lehrplan:
-    build:
-      context: .
-      target: dev
-    ports:
-      - "3000:3000"
-    volumes:
-      - ./website:/app
-      - /app/node_modules
-    environment:
-      - WATCHPACK_POLLING=true
-
-  lehrplan-prod:
     image: ghcr.io/kahalm/lehrplan-at:latest
     ports:
       - "8080:80"
-    profiles:
-      - prod
