@@ -36,6 +36,20 @@ sidebar_position: 99
 | [Lehrpläne NEU – FAQ](https://paedagogikpaket.at/massnahmen/lehrplaene-neu/faq.html) | Häufige Fragen zu Übergang, Kompetenzorientierung, Schulautonomie |
 | [Kernbotschaften](https://www.paedagogikpaket.at/massnahmen/lehrplaene-neu/materialien-und-downloads.html) | Zusammenfassung der wichtigsten Neuerungen |
 
+## Lehrplankommentare (PDF-Downloads)
+
+| Fach | Download |
+|------|----------|
+| [Deutsch](https://www.paedagogikpaket.at/component/edocman/470-kommentar-zum-lehrplan-2/download.html) | Kommentar zum Fachlehrplan Deutsch |
+| [Sachunterricht](https://www.paedagogikpaket.at/component/edocman/449-kommentar-zum-lehrplan-2/download.html) | Kommentar zum Fachlehrplan Sachunterricht |
+| [Lebende Fremdsprache](https://www.paedagogikpaket.at/component/edocman/448-kommentar-zum-lehrplan-2/download.html) | Kommentar zum Fachlehrplan Lebende Fremdsprache |
+| [Musik](https://www.paedagogikpaket.at/component/edocman/462-kommentar-zum-lehrplan-2/download.html) | Kommentar zum Fachlehrplan Musik |
+| [Kunst und Gestaltung](https://www.paedagogikpaket.at/component/edocman/410-kommentar-zum-lehrplan-2/download.html) | Kommentar zum Fachlehrplan Kunst und Gestaltung |
+| [Technik und Design](https://www.paedagogikpaket.at/component/edocman/450-kommentar-zum-lehrplan-2/download.html) | Kommentar zum Fachlehrplan Technik und Design |
+| [Bewegung und Sport](https://www.paedagogikpaket.at/component/edocman/412-kommentar-zum-lehrplan-2/download.html) | Kommentar zum Fachlehrplan Bewegung und Sport |
+
+*Hinweis: Für Mathematik ist derzeit kein Lehrplankommentar verfügbar.*
+
 ## Bildungsstandards & Kompetenzmessung
 
 | Quelle | Beschreibung |
@@ -44,6 +58,15 @@ sidebar_position: 99
 | [Bildungsstandards (IQS)](https://www.iqs.gv.at/themen/nationale-kompetenzerhebung/ikm-plus-volksschule/glossar-lehrpersonen-schulleitungen/bildungsstandards) | Definition und Grundlagen der Bildungsstandards |
 | [Grundkompetenzen Fremdsprache GK2/GK4 (OESZ)](https://www.oesz.at/OESZNEU/main.php?page=0171&open=154&open2=165) | Can-do-Deskriptoren für Englisch, 2. und 4. Schulstufe |
 | [GK2/GK4 (PDF)](https://pubshop.bmbwf.gv.at/index.php?rex_media_type=pubshop_download&rex_media_file=oesz_gruko2_4_2016_1.pdf) | Grundkompetenzen als Download |
+
+## Unterrichtsmaterialien & Qualitätsentwicklung
+
+| Quelle | Beschreibung |
+|--------|-------------|
+| [Eduthek](https://eduthek.at) | Offizielle Bildungsmediathek des BMBWF – Unterrichtsmaterialien, Arbeitsblätter und Medien |
+| [QMS – Qualitätsmanagement für Schulen](https://www.qms.at/) | Qualitätsrahmen, Entwicklungsinstrumente und Praxisbeispiele für Schulentwicklung |
+| [ÖSZ – Österreichisches Sprachen-Kompetenz-Zentrum](https://www.oesz.at/) | Sprachenförderung, Mehrsprachigkeit und Sprachendidaktik |
+| [ÖSZ – Material-Center](https://www.oesz.at/material-center/) | Downloadbereich für Sprachförder-Materialien und Praxishefte |
 
 ## Fortbildung & Pädagogische Hochschulen
 
