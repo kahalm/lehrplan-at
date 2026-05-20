@@ -12,6 +12,7 @@ sidebar_position: 99
 | [RIS – Lehrplan der Volksschule (konsolidiert)](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009275) | Immer aktuelle Gesamtfassung des Volksschul-Lehrplans |
 | [BGBl. II Nr. 1/2023](https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_1/BGBLA_2023_II_1.html) | Gründungsverordnung des neuen Lehrplans |
 | [BGBl. II Nr. 178/2025](https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2025_II_178/BGBLA_2025_II_178.html) | Letzte Novelle (Orientierung und Vorläuferfertigkeiten) |
+| [BGBl. II Nr. 47/2023](https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_47/BGBLA_2023_II_47.html) | Lehrplan für den katholischen Religionsunterricht an Volksschulen |
 | [BGBl. II Nr. 280/2024](https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2024_II_280/BGBLA_2024_II_280.html) | Sonderschul-Lehrpläne und Religionslehrpläne |
 | [BGBl. II Nr. 230/2018](https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2018_II_230/BGBLA_2018_II_230.html) | Alter Lehrplan (letzte Fassung vor Reform) |
 | [§ 10 SchOG](https://www.jusline.at/10_Lehrplan_der_Volksschule_SchOG.html) | Gesetzliche Ermächtigung im Schulorganisationsgesetz |
