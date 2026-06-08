@@ -20,4 +20,6 @@ RUN npm run build
 
 FROM nginx:alpine AS prod
 COPY --from=build /app/build /usr/share/nginx/html
+# JSON-Zugriffslog-Konfiguration fuer Fluent Bit (siehe nginx.conf / docker-compose.yml).
+COPY nginx.conf /etc/nginx/nginx.conf
 EXPOSE 80
