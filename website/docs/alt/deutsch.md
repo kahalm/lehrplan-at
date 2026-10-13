@@ -6,7 +6,7 @@ title: "Deutsch"
 # Fachlehrplan Deutsch, Lesen, Schreiben -- ALTER Lehrplan der Volksschule
 
 > **Rechtsgrundlage:** BGBl. Nr. 134/1963 zuletzt geaendert durch BGBl. II Nr. 230/2018
-> **Gueltig:** bis 31.08.2023 (ausser Kraft)
+> **Gueltig:** schulstufenweise ausser Kraft (1. Schulstufe seit 01.09.2023, 2. seit 01.09.2024, 3. seit 01.09.2025, 4. seit 01.09.2026)
 > **Quelle:** Anlage A -- Lehrplan der Volksschule, Siebenter Teil: Bildungs- und Lehraufgaben sowie Lehrstoff und Didaktische Grundsaetze der Pflichtgegenstaende der Grundschule
 
 ---

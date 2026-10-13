@@ -53,7 +53,7 @@ const sidebars: SidebarsConfig = {
   altSidebar: [
     {
       type: 'category',
-      label: 'Alter Lehrplan (bis 2023)',
+      label: 'Alter Lehrplan (stufenweise bis 2026)',
       items: [
         'alt/uebersicht',
         'alt/allgemeine-bestimmungen',

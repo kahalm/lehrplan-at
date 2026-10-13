@@ -1,6 +1,6 @@
 # Lehrplan der Volksschule (alt) -- Vorschulstufe, Freigegenstande/Unverbindliche Ubungen und Deutschforderklassen
 
-Quelle: BGBl. II Nr. 230/2018, gultig bis 31.08.2023. Extrahiert aus `lehrplan_alt_volltext.txt`.
+Quelle: BGBl. II Nr. 230/2018, schulstufenweise ausser Kraft (1. Schulstufe seit 01.09.2023, 2. seit 01.09.2024, 3. seit 01.09.2025, 4. seit 01.09.2026). Extrahiert aus `lehrplan_alt_volltext.txt`.
 
 ---
 

@@ -5,7 +5,7 @@ title: "Weitere Fächer"
 
 # Fachlehrplaene der weiteren Pflichtgegenstaende, verbindlichen Uebungen und Freigegenstaende
 
-## ALTER Lehrplan Volksschule (BGBl. II Nr. 230/2018, gueltig bis 31.08.2023)
+## ALTER Lehrplan Volksschule (BGBl. II Nr. 230/2018, schulstufenweise abgeloest 2023–2026)
 
 Quelle: `lehrplan_alt_volltext.txt`, Seiten 126-200
 

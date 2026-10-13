@@ -1,7 +1,7 @@
 # Stundentafeln der Volksschule (ALTER Lehrplan)
 
 **BGBl. Nr. 134/1963, zuletzt geaendert durch BGBl. II Nr. 230/2018**
-**Gueltig bis 31.08.2023**
+**Schulstufenweise ausser Kraft (1. Schulstufe seit 01.09.2023, 2. seit 01.09.2024, 3. seit 01.09.2025, 4. seit 01.09.2026)**
 
 Vierter Teil: Gesamtstundenzahl und Stundenausmass der Pflichtgegenstaende, der verbindlichen Uebungen, des Foerderunterrichtes, der Freigegenstaende und unverbindlichen Uebungen.
 

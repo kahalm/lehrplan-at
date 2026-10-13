@@ -7,8 +7,8 @@ title: "Übersicht"
 
 > **Quelle:** [RIS – Bundesrecht](https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009275&Artikel=&Paragraf=&Anlage=1&Uebergangsrecht=)
 > **Rechtsgrundlage:** Schulorganisationsgesetz (SchOG), BGBl. Nr. 242/1962
-> **Letzte Änderung:** BGBl. II Nr. 178/2025
-> **Gültig ab:** 01.09.2025
+> **Verordnung:** BGBl. II Nr. 1/2023 (Lehrpläne NEU), zuletzt geändert durch BGBl. II Nr. 178/2025
+> **In Kraft:** schulstufenweise aufsteigend – 1. Schulstufe seit 01.09.2023, 2. seit 01.09.2024, 3. seit 01.09.2025, 4. seit 01.09.2026; seit 01.09.2026 gilt er für alle Schulstufen
 
 ---
 

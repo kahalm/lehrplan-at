@@ -7,7 +7,7 @@ title: "Übersicht"
 
 > **Quelle:** [RIS – Bundesrecht, Fassung vom 31.08.2023](https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009275&Artikel=&Paragraf=&Anlage=1&Uebergangsrecht=&FassungVom=2023-08-31)
 > **Rechtsgrundlage:** Schulorganisationsgesetz (SchOG), BGBl. Nr. 242/1962, Anlage 1
-> **Gültig bis:** 31.08.2023 (abgelöst durch die neue kompetenzorientierte Fassung)
+> **Gültig bis:** schulstufenweise abgelöst durch die neue kompetenzorientierte Fassung (BGBl. II Nr. 1/2023): 1. Schulstufe bis 31.08.2023, 2. bis 31.08.2024, 3. bis 31.08.2025, 4. bis 31.08.2026
 
 ---
 
@@ -88,7 +88,7 @@ Acht zentrale Grundsätze:
 
 ## Wesentliche Unterschiede zum neuen Lehrplan (ab 2023/24)
 
-| Aspekt | Alt (bis 2023) | Neu (ab 2023/24) |
+| Aspekt | Alt (stufenweise bis 2026) | Neu (ab 2023/24) |
 |--------|---------------|-------------------|
 | Grundausrichtung | Inhaltsvorgaben | **Kompetenzorientierung** |
 | Bildungsziel-Sprache | „pflichttreue Glieder der Gesellschaft" | „selbstständiges Urteil, soziale Kompetenz" |

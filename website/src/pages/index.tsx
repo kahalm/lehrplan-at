@@ -15,7 +15,7 @@ export default function Home(): React.JSX.Element {
         <div style={{display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gap: '1rem', marginTop: '2rem'}}>
           <div style={{padding: '1.5rem', border: '1px solid var(--ifm-color-emphasis-300)', borderRadius: '8px'}}>
             <h3>Neuer Lehrplan</h3>
-            <p>Ab 2023/24, BGBl. II Nr. 178/2025. Kompetenzorientiert.</p>
+            <p>Ab 2023/24 schulstufenweise, BGBl. II Nr. 1/2023 (zuletzt geändert durch 178/2025). Kompetenzorientiert.</p>
             <Link className="button button--primary" to="/neu/uebersicht">
               Zum neuen Lehrplan
             </Link>
@@ -23,7 +23,7 @@ export default function Home(): React.JSX.Element {
 
           <div style={{padding: '1.5rem', border: '1px solid var(--ifm-color-emphasis-300)', borderRadius: '8px'}}>
             <h3>Alter Lehrplan</h3>
-            <p>Bis 2023, BGBl. II Nr. 230/2018. Lehrstofforientiert.</p>
+            <p>Stufenweise abgelöst 2023–2026, BGBl. II Nr. 230/2018. Lehrstofforientiert.</p>
             <Link className="button button--secondary" to="/alt/uebersicht">
               Zum alten Lehrplan
             </Link>

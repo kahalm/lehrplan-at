@@ -1,6 +1,6 @@
-# Lehrplan der Volksschule -- ALTER Lehrplan (BGBl. II Nr. 230/2018, gueltig bis 31.08.2023)
+# Lehrplan der Volksschule -- ALTER Lehrplan (BGBl. II Nr. 230/2018, schulstufenweise abgeloest 2023–2026)
 
-> **Hinweis:** Dies ist der ALTE Lehrplan der oesterreichischen Volksschule (Anlage A), BGBl. Nr. 134/1963 zuletzt geaendert durch BGBl. II Nr. 230/2018. Dieser Lehrplan war gueltig bis zum Inkrafttreten des neuen kompetenzorientierten Lehrplans am 01.09.2023.
+> **Hinweis:** Dies ist der ALTE Lehrplan der oesterreichischen Volksschule (Anlage A), BGBl. Nr. 134/1963 zuletzt geaendert durch BGBl. II Nr. 230/2018. Dieser Lehrplan wurde vom neuen kompetenzorientierten Lehrplan (BGBl. II Nr. 1/2023) schulstufenweise abgeloest: 1. Schulstufe ab 01.09.2023, 2. ab 01.09.2024, 3. ab 01.09.2025, 4. ab 01.09.2026.
 
 ---
 

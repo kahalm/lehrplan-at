@@ -15,7 +15,7 @@ lehrplan/
 ├── CLAUDE.md                                    # Projektkontext (dieses File)
 └── volksschule/
     ├── vergleich_alt_neu.md                     # Vergleichstabelle alt vs. neu (alle Fächer)
-    ├── neu/                                     # Neuer Lehrplan (ab 2023/24, BGBl. II Nr. 178/2025)
+    ├── neu/                                     # Neuer Lehrplan (BGBl. II Nr. 1/2023, zuletzt geaendert 178/2025; schulstufenweise ab 2023/24)
     │   ├── NOR40271469.pdf                      # Original-PDF von RIS (140 Seiten)
     │   ├── lehrplan_volltext.txt                # Volltext-Export des PDFs
     │   ├── lehrplan_volksschule.md              # Überblick & Zusammenfassung
@@ -26,7 +26,7 @@ lehrplan/
     │   ├── fachlehrplan_sachunterricht.md       # Fachlehrplan Sachunterricht
     │   ├── fachlehrplaene_weitere.md            # Musik, Kunst, Technik, Sport, Englisch, etc.
     │   └── vorschulstufe_und_daz.md             # Vorschulstufe + Deutschförderklassen/DaZ
-    └── alt/                                     # Alter Lehrplan (BGBl. II Nr. 230/2018, bis 31.08.2023)
+    └── alt/                                     # Alter Lehrplan (BGBl. II Nr. 230/2018, schulstufenweise abgeloest 2023-2026)
         ├── NOR40226176.pdf                      # Original-PDF von RIS (224 Seiten)
         ├── lehrplan_alt_volltext.txt             # Volltext-Export des PDFs
         ├── lehrplan_volksschule_alt.md           # Überblick & Vergleichstabelle alt/neu
@@ -47,7 +47,7 @@ lehrplan/
 - **BMS** (Berufsbildende Mittlere Schulen)
 
 ## Lehrplan-Reform 2023/24
-Seit dem Schuljahr 2023/24 gelten neue kompetenzorientierte Lehrpläne für die Primarstufe und Sekundarstufe I. Wichtige Neuerungen:
+Seit dem Schuljahr 2023/24 gelten neue kompetenzorientierte Lehrpläne für die Primarstufe und Sekundarstufe I, schulstufenweise aufsteigend (Volksschule: 1. Schulstufe 2023/24 bis 4. Schulstufe 2026/27; BGBl. II Nr. 1/2023). Wichtige Neuerungen:
 - Kompetenzorientierung statt reiner Inhaltsvorgaben
 - Fächerübergreifende Kompetenzen
 - Digitale Grundbildung als Pflichtfach (Sekundarstufe I)

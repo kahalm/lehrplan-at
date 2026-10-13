@@ -5,8 +5,8 @@ title: "Vergleich Alt vs. Neu"
 
 # Vergleich: Alter vs. Neuer Lehrplan der Volksschule
 
-> **Alter Lehrplan:** BGBl. II Nr. 230/2018, gültig bis 31.08.2023 (224 Seiten)
-> **Neuer Lehrplan:** BGBl. II Nr. 178/2025, gültig ab 01.09.2025 (140 Seiten)
+> **Alter Lehrplan:** BGBl. II Nr. 230/2018, schulstufenweise außer Kraft (1. Schulstufe seit 01.09.2023, 2. seit 01.09.2024, 3. seit 01.09.2025, 4. seit 01.09.2026) (224 Seiten)
+> **Neuer Lehrplan:** BGBl. II Nr. 1/2023, zuletzt geändert durch BGBl. II Nr. 178/2025; in Kraft schulstufenweise seit 01.09.2023 (1. Schulstufe) bis 01.09.2026 (4. Schulstufe) (140 Seiten)
 
 ---
 

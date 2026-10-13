@@ -1,6 +1,6 @@
 # Fachlehrplan Deutsch -- Volksschule (1. bis 4. Schulstufe)
 
-**Quelle:** Lehrplan der Volksschule, BGBl. Nr. 134/1963 zuletzt geaendert durch BGBl. II Nr. 178/2025, Anlage A, Neunter Teil, Abschnitt A (Pflichtgegenstaende). Inkrafttreten: 01.09.2025.
+**Quelle:** Lehrplan der Volksschule, BGBl. Nr. 134/1963 zuletzt geaendert durch BGBl. II Nr. 178/2025, Anlage A, Neunter Teil, Abschnitt A (Pflichtgegenstaende). Neuer Lehrplan laut BGBl. II Nr. 1/2023, in Kraft schulstufenweise seit 01.09.2023 (1. Schulstufe) bis 01.09.2026 (4. Schulstufe); die Novelle 178/2025 (Orientierungsunterricht) gilt seit 01.09.2025.
 
 ---
 
